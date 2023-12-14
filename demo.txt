@@ -1,3 +1,12 @@
 Welcome to the world of programming!!!
 Hi I'm currently adding local changes to remote repository...
 Hello coders , onkark750 here...
+
+Java fullstack skillset is:-
+   1. Java
+   2. Springboot and Microservices 
+   3. Angular or React
+   4. Tools [Git , Maven , Jenkins , Docker]
+   5. SQL 
+   6. Design patterns
+   7. Coding skills [Basic DSA]
