@@ -1,0 +1,5 @@
+Source Tree is a Git client which is used to work with Git in GUI format
+The list of other GUI tools is:-
+1. GitHub Desktop
+2. Tortoise GUI
+3. GitKraken
